@@ -25,5 +25,6 @@
         "last 2 versions"
     ],
     "emmet.triggerExpansionOnTab": true,
-    "crane.phpstubsZipFile": "https://github.com/KESFANTIN/fenaess.git"
+    "crane.phpstubsZipFile": "https://github.com/KESFANTIN/fenaess.git",
+    "sync.gist": "https://github.com/KESFANTIN/fenaess.git"
 }
